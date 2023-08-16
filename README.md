@@ -7,5 +7,3 @@ If the website gets updated from which the data is being scrapped, the program w
 
 Fundamental Analysis as well as Technical Analysis of companies listed in Nepal Stock Exchange can be done using this program.
 The files here have data till 2022-2-22.
-
-XD
